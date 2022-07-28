@@ -7,3 +7,23 @@
 .custom-font{
     font-size:50px;
 }
+/* footer */
+.footer-section{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-heading{
+    font-size: 30px;
+    color: whitesmoke;
+}
+.link{
+    text-decoration: none;
+    color: whitesmoke;
+    padding-right: 15px;
+}
+.fa-brands.social{
+    color: whitesmoke;
+    padding-right: 30px;
+    font-size: 30px;
+}
