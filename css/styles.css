@@ -1,5 +1,5 @@
 .myimage{
-    filter: brightness(40%);
+    filter: brightness(60%);
 }
 .banner-fix{
     margin-bottom: 100px;
@@ -25,8 +25,9 @@
 .fa-brands.social{
     color: whitesmoke;
     padding-right: 30px;
-    font-size: 30px;
+    font-size: 35px;
 }
+ /* Responsive Using MediaQuries */
 
 @media only screen and (max-width:576px){
     .sm-device{
