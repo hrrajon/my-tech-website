@@ -1,0 +1,9 @@
+.myimage{
+    filter: brightness(40%);
+}
+.banner-fix{
+    margin-bottom: 100px;
+}
+.custom-font{
+    font-size:50px;
+}
