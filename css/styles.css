@@ -27,3 +27,24 @@
     padding-right: 30px;
     font-size: 30px;
 }
+
+@media only screen and (max-width:576px){
+    .sm-device{
+
+        font-size: 14px;
+    }
+    .sm-device h1{
+        font-size: 20px;
+    }
+    .text-position{
+        text-align: center;
+    }
+    .company-hide{
+        display: none;
+    }
+}
+@media only screen and (min-width:576px) and (max-width:991px){
+    .company-hide{
+        display: none;
+    }
+}
